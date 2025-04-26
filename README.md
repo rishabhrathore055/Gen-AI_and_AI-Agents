@@ -1,1 +1,1 @@
-# Gen-AI_and_AI-Agents
+# Gen AI and AI Agents
